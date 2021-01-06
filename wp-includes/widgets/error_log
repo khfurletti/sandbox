@@ -1,0 +1,1 @@
+[25-Nov-2019 17:17:24 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home2/rosewat2/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
